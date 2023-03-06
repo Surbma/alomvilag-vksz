@@ -22,6 +22,10 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+**2.0**
+
+- Óradíjak módosítása, aktualizálása.
+
 **1.0**
 
 - Vállalkozási Keretszerződés hozzáadása.

@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 1.0 | UTOLSÓ FRISSÍTÉS: 2022.08.28.**
+**VERZIÓ: 2.0 | UTOLSÓ FRISSÍTÉS: 2023.04.07.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -46,17 +46,17 @@ Az Egyedi szerződésekben nem szabályozott vagy a feladatokon túlmutató munk
 
 **Prémium WordPress Előfizetőknek:**
 
-- **Programozás:** 12.000 Ft
-- **Adminisztrációs feladatok:** 12.000 Ft
-- **Tartalomfeltöltés:** 6.000 Ft
-- **Oktatás, konzultáció:** 12.000 Ft
+- **Programozás:** 15.000 Ft
+- **Adminisztrációs feladatok:** 15.000 Ft
+- **Tartalomfeltöltés:** 15.000 Ft
+- **Oktatás, konzultáció:** 15.000 Ft
 
 **Alkalmi ügyfeleknek:**
 
-- **Programozás:** 16.000 Ft
-- **Adminisztrációs feladatok:** 16.000 Ft
-- **Tartalomfeltöltés:** 16.000 Ft
-- **Oktatás, konzultáció:** 16.000 Ft
+- **Programozás:** 20.000 Ft
+- **Adminisztrációs feladatok:** 20.000 Ft
+- **Tartalomfeltöltés:** 20.000 Ft
+- **Oktatás, konzultáció:** 25.000 Ft
 
 Az árak nettó árak. A számla a jogszabályban meghatározott feltételek szerint az áfával növelt összeggel kerül kiküldésre.
 
